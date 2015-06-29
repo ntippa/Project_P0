@@ -1,0 +1,6 @@
+<resources>
+    <color name="portfolio_titleTextColor">#FFFFFF</color>
+    <color name="portfolio_buttonBackground">#607D8B</color>
+   <!-- <color name = "primaryColor"></color>
+    <color name = "primaryDarkColor"></color>-->
+</resources>

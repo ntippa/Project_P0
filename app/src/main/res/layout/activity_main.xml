@@ -1,0 +1,81 @@
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="portfolio.nanodegree.android.ntippa.portfolio.MainActivity">
+
+   <!-- <include
+        android:id="@+id/appBar"
+        layout="@layout/app_bar"
+
+        xmlns:android="http://schemas.android.com/apk/res/android" />-->
+<TextView
+    style = "@style/portfolio_titleText"
+    android:text="@string/portfolio_title"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.90"
+        android:orientation="vertical">
+
+        <Button
+            style="@style/project_button"
+            android:text="@string/project1"
+            android:id="@+id/project1"
+            />
+
+        <Space style = "@style/space"/>
+
+        <Button
+            style="@style/project_button"
+            android:text="@string/project2"
+            android:id="@+id/project2"
+            />
+
+        <Space style = "@style/space"/>
+
+        <Button
+            style="@style/project_button"
+            android:text="@string/project3"
+            android:id="@+id/project3"
+            />
+
+        <Space style = "@style/space"/>
+
+        <Button
+            style="@style/project_button"
+            android:text="@string/project4"
+            android:id="@+id/project4" />
+
+        <Space style = "@style/space"/>
+
+        <Button
+            style="@style/project_button"
+            android:text="@string/project5"
+            android:id="@+id/project5" />
+
+        <Space style = "@style/space"/>
+
+        <Button
+            style="@style/project_button"
+            android:background="@color/colorButtonBold"
+
+            android:text="@string/project6"
+            android:id="@+id/project6" />
+
+        <Space style = "@style/space"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_weight="0.15"></LinearLayout>
+
+
+
+
+</LinearLayout>

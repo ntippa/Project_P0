@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Portfolio</string>
+    <string name="portfolio_title">My Nanodegree Apps</string>
+    <string name="project1">SPOTIFY STREAMER</string>
+    <string name="project2">SCORES</string>
+    <string name="project3">LIBRARY APP</string>
+    <string name="project4">BUILD IT BIGGER</string>
+    <string name="project5">XVY READER</string>
+    <string name="project6">CAPSTONE:MY OWN APP</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_test">testActivity</string>
+</resources>

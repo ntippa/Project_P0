@@ -1,0 +1,4 @@
+check for portrait/landscape layout, Orientation changes
+
+tablet, phone layouts
+
